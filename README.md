@@ -8,15 +8,15 @@
 <p align="center">
   <samp> A creative and passionate Computer Science student from the Philippines. I am an aspiring web developer with an extensive knowledge for front-end programming. 
   </samp>
-  <samp> Connect with me :D
-  </samp>
+  <p> Connect with me :D
+  </p>
   <br> <br>
-  <img src="![](https://komarev.com/ghpvc/?martinaangeles)" alt="https://github.com/martinaangeles" />
+  <img src="![](https://komarev.com/ghpvc/?username=martinaangeles)" alt="https://github.com/martinaangeles" />
 </p>
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;

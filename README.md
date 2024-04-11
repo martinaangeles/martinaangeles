@@ -11,7 +11,7 @@
   <samp> Connect with me :D
   </samp>
   <br> <br>
-  <img src="![](https://hit.yhype.me/github/profile?user_id=121085579)" alt="https://github.com/martinaangeles" />
+  <img src="![](https://komarev.com/ghpvc/?username=martinaangeles)" />
 </p>
 
 <hr>

@@ -7,11 +7,11 @@
 <h2 align="center"> 👩🏻‍💻 About Me</h2>
 <p align="center">
   <samp> A creative and passionate Computer Science student from the Philippines. I am an aspiring web developer with an extensive knowledge for front-end programming. 
+  </samp> <br/>
+  <samp> Connect with me :D
   </samp>
-  <p> Connect with me :D
-  </p>
   <br> <br>
-  <img src="![](https://komarev.com/ghpvc/?username=martinaangeles)" alt="https://github.com/martinaangeles" />
+  <img src="![](https://hit.yhype.me/github/profile?user_id=121085579)" alt="https://github.com/martinaangeles" />
 </p>
 
 <hr>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+<p align="center">HTML, CSS , Javascript, Java, Python, Bootstrap, ReactJS, Tailwind, SQL, Node.js, PostgreSQL, Django</p>
 
 <hr>
 
